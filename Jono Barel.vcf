@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.4.1//EN
+N:Barel;Jono;;;
+FN:Jono Barel
+TITLE:Game Developer
+EMAIL;type=INTERNET;type=HOME;type=pref:jonobarel@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+972-54-477-8514
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/jonobarel
+X-SOCIALPROFILE;type=twitter:http://twitter.com/jonobarel
+item1.URL;type=pref:https://linktr.ee/jonobarel
+item1.X-ABLabel:Linktr.ee
+END:VCARD
